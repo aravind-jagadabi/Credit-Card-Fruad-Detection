@@ -2,6 +2,8 @@
 
 Description of the Data Set:<br>
 <br>
+![Work Flow](https://github.com/aravind-jagadabi/Credit-Card-Fruad-Detection/assets/76617844/bef46101-7358-4503-85c6-0d9e9c015c1d)
+
 
 The data set contains credit card information.
 The data is preseneted with Time, Amount, Class and a series of columns with naming that ranges from V1 - V28
